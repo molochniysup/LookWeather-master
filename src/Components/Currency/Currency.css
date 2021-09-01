@@ -1,0 +1,18 @@
+.currency {
+    display: flex;
+    margin: auto;
+    background-color: #e4e8ecc5;
+    width: 30%;
+    flex-direction: column;
+
+
+}
+
+.a {
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+    color: rgb(141, 93, 71);
+    text-transform: uppercase;
+
+}
